@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:3A0CA3&height=140&section=header&text=Aaloka%20Poudel&fontSize=34&fontColor=EAEAEA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=220&section=header&text=Aaloka%20Poudel&fontSize=44&fontColor=EAEAEA" />
 </p>
 
 <h3 align="center">Software Engineering · MERN Stack · Spring Boot</h3>
