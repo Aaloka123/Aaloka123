@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=220&section=header&text=Aaloka%20Poudel&fontSize=44&fontColor=EAEAEA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=220&section=header&text=Aaloka%20Poudel&fontSize=44&fontColor=EAEAEA&animation=none" />
 </p>
 
-<h3 align="center">Software Engineering · MERN Stack · Spring Boot</h3>
+<h3 align="center">Spring Boot | MERN Stack </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Software+Engineer;Spring+Boot+Developer&center=true&width=420&height=35&color=C77DFF&size=18">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;MERN+Stack+Developer;Spring+Boot+Developer&center=true&width=600&height=50&color=C77DFF&size=24">
 </p>
 
 ---
